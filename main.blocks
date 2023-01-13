@@ -1,0 +1,7 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="}%/v,Lu}}4d)9a?m]LT-" x="0" y="0"><statement name="HANDLER"><block type="device_show_leds" id="TLC4QeRIu=94OMB/twh0"><field name="LEDS">`
+        . . . . . 
+        . # . # . 
+        . . # . . 
+        # . . . # 
+        . # # # .
+        `</field></block></statement></block><block type="device_forever" id="W5*H`?Z0?#Bh]eT/6Arj" x="205" y="0"><statement name="HANDLER"><block type="basic_show_icon" id="ShLzn;nfPtr/viH^V[Ct"><field name="i">IconNames.Chessboard</field></block></statement></block></xml>
