@@ -4,4 +4,16 @@
         . . # . . 
         # . . . # 
         . # # # .
-        `</field></block></statement></block><block type="device_forever" id="W5*H`?Z0?#Bh]eT/6Arj" x="205" y="0"><statement name="HANDLER"><block type="basic_show_icon" id="ShLzn;nfPtr/viH^V[Ct"><field name="i">IconNames.Chessboard</field></block></statement></block></xml>
+        `</field><next><block type="device_show_leds" id="+dhzH;S#[WF$m0r.5B=;"><field name="LEDS">`
+        . . # . . 
+        . # . # . 
+        . # # # . 
+        . # . # . 
+        . # . # .
+        `</field><next><block type="device_show_leds" id="T|,~X%D-QFuw3JB#D=H]"><field name="LEDS">`
+        . # . # . 
+        . # . # . 
+        . # . # . 
+        . # . # . 
+        . . # . .
+        `</field></block></next></block></next></block></statement></block><block type="device_forever" id="W5*H`?Z0?#Bh]eT/6Arj" x="205" y="0"></block></xml>
